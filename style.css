@@ -1,0 +1,13 @@
+.note{
+    font-size: xx-large;
+    color: black;
+    background-color: white;
+}
+#header2{
+box-shadow: 10px, 10px #888888;
+
+}
+.canvas{
+    border:1px;
+    background-color:#888888 ;
+}
